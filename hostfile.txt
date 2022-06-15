@@ -1,0 +1,8 @@
+# Polish filters for AdGuard Home
+# Collaborators: Jairo0920
+# Homepage: https://jairo.cruz.cr
+# Contact: jairo@cruz.cr
+# Copyright (C) 2022
+#
+#
+0.0.0.0 petardas.com
